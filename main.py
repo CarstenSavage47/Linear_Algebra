@@ -1,5 +1,7 @@
 import numpy as np
 
+'''Example 1: The dot product of a vector with itself is the two-norm of that vector, squared.'''
+
 vector = np.array([3, 4])
 
 vector_t = vector.transpose()
